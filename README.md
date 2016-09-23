@@ -16,6 +16,6 @@ change behaviour(color) by distance from camera.
 
 ##sample 3
 change behaviour(color) by distance from camera.  
-(camera does not move)
+(object will move)
 
 ![image](https://raw.githubusercontent.com/wiki/tsubaki/CullingGroup_Sample/image/run1.gif)
