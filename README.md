@@ -4,7 +4,7 @@ Occlusion Group's samples.
 
 
 ##sample 1
-Invisible animation does not work.
+Stop invisible animation.
 
 ![image](https://raw.githubusercontent.com/wiki/tsubaki/CullingGroup_Sample/image/run3.gif)
 
