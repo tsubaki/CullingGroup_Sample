@@ -19,3 +19,8 @@ change behaviour(color) by distance from camera.
 (object will move)
 
 ![image](https://raw.githubusercontent.com/wiki/tsubaki/CullingGroup_Sample/image/run1.gif)
+
+##sample 4
+does not spawn visible spawner.
+
+![image](https://raw.githubusercontent.com/wiki/tsubaki/CullingGroup_Sample/image/run4.gif)
